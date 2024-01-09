@@ -14,7 +14,7 @@ I am a student at SMKN 8 JEMBER who is interning at PT Infoglobal
     - :keyboard: now I'm learning github </br>
     - :speech_balloon: ask me anything</br>
     - :mailbox: How to reach me: <a href="mailto:paskahruii@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: He/Her. </br>
+    - :cloud: Pronouns: He/Him. </br>
     - :game_die: Drawing and gamers are part of me. </br>
 <p>
  
