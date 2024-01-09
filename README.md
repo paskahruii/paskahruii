@@ -13,7 +13,7 @@ I am a student at SMKN 8 JEMBER who is interning at PT Infoglobal
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:paskahruii@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and gamers are part of me. </br>
 <p>
