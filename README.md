@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
+
 ### <summary><strong>Me!</strong></summary>
 <p>
     - :keyboard:now i am learning about github and also creating a simple githup profile </br>
@@ -19,6 +20,7 @@
     - :cloud: Pronouns: He/Him. </br>
     - :game_die: Drawing and gamers are part of me. </br>
 <p>
+
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/yours">
