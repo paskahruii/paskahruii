@@ -25,6 +25,9 @@ I am a student at SMKN 8 JEMBER who is interning at PT Infoglobal
 <a href="https://www.instagram.com/yours/">
   <img align="left" alt="Goo's Instagram" width="35px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+<a href="https://www.telegram.com/yours/">
+  <img align="left" alt="Goo's telegram" width="35px" src="https://simpleicons.now.sh/telegram/495f7e" />
+</a>
 
 
 
