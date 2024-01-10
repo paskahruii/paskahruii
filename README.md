@@ -13,7 +13,7 @@
 
 ### <summary><strong>Me!</strong></summary>
 <p>
-    - :keyboard: now I'm learning github </br>
+    - :keyboard:now i am learning about github and also creating a simple githup profile </br>
     - :speech_balloon: ask me anything</br>
     - :mailbox: How to reach me: <a href="mailto:paskahruii@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
