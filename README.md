@@ -1,8 +1,7 @@
 # Hi Everyone 👋
+  
 
-### <summary><strong>Me:</strong></summary>    
-
-I am a student at SMKN 8 JEMBER who is interning at PT Infoglobal
+### <summary><strong>Me:</strong></summary>    I am a student at SMKN 8 JEMBER who is interning at PT Infoglobal
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
